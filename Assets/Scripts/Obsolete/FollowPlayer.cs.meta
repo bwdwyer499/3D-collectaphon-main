@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/Enemy1Controller.cs.meta
+guid: 35e0a4e7da5f7d34a92aff8e653b4673
+=======
+guid: 5b7c8d3900ce23c49818d1809d373d24
+>>>>>>> a7f96af0e084cd4e35b72c4279d446f5e21bc705:Assets/Scripts/FollowPlayer.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
